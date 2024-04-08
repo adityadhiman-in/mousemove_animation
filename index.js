@@ -28,8 +28,8 @@ section.addEventListener("mouseleave", function(event){
         scale:1,
     })
     gsap.to(".section span",{
-        color:"#000",
+        color:"#fff",
         duration:.5,
-        y:"5vw"
+        y:"0vw"
     })
 })
